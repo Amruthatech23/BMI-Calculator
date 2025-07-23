@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple and interactive BMI (Body Mass Index) Calculator web app built using HTML, CSS, and JavaScript. This project helps users calculate their BMI based on their height and weight, and categorizes them as Underweight, Normal, Overweight, or Obese — with emojis for fun! 🌟
+A simple and interactive BMI (Body Mass Index) Calculator web app built using HTML, CSS, and JavaScript. This project helps users calculate their BMI based on their height and weight, and categorizes them as Underweight, Normal, Overweight, or Obese..
 
 # Features
 
