@@ -17,7 +17,7 @@ Styled with clean and responsive UI
 
 # Screenshot
 
-(screenshot.png)
+![Currency Converter Screenshot](screenshot.png)
 
 
 # How I Built This Project
